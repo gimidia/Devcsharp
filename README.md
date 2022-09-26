@@ -1,2 +1,2 @@
-# DevJunior
-Prova de Avaliação
+# Devcharp
+Projeto de estudo de comandos c#

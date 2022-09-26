@@ -1,2 +1,2 @@
 # Devcsharp
-Projeto de estudo de comandos c#
+Projeto para estudo da linguagem de programação Csharp
